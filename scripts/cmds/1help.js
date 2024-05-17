@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "༐⸙👻 𝗛𝗔𝗜𝗧𝗔𝗡𝗜 ❤️‍🔥༐⸙";
+const doNotDelete = "༐⸙👻 𝑰𝒓𝒐𝒏 ❤️‍🔥༐⸙";
 /** 
 * @author NTKhang
 * @author: do not delete it
@@ -43,7 +43,7 @@ module.exports = {
 
   langs: {
     vi: {
-      help: "╭─────────────✿\n☄HAITANI CMD く命ཋྀ༅ \n├─────⭔\n│ Trang [ %2/%3 ]\n│ Hiện tại bot có %4 lệnh có thể sử dụng\n│ » Gõ %5help <số trang> để xem danh sách các lệnh\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó\n├────────❀\n│ %6\n╰─────────────✿",
+      help: "╭─────────────✿\n☄IRON CMD く命ཋྀ༅ \n├─────⭔\n│ Trang [ %2/%3 ]\n│ Hiện tại bot có %4 lệnh có thể sử dụng\n│ » Gõ %5help <số trang> để xem danh sách các lệnh\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó\n├────────❀\n│ %6\n╰─────────────✿",
       attechment:fs.createReadStream("anjarara.jpg"),
       help2: "%1├───────❀\n│ » Hiện tại bot có %2 lệnh có thể sử dụng\n│ » Gõ %3help <tên lệnh> để xem chi tiết cách sử dụng lệnh đó\n│ %4\n╰─────────────✿",
       commandNotFound: "Lệnh \"%1\" không tồn tại",
