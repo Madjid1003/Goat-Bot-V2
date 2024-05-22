@@ -3,8 +3,8 @@ const moment = require('moment-timezone');
 
 module.exports = {
   config: {
-    name: "ghostgc",
-    aliases: ["ghostgc"],
+    name: "irongc",
+    aliases: ["irongc"],
     version: "1.0",
     author: "AceGun",
     countDown: 5,
@@ -24,7 +24,7 @@ module.exports = {
   },
 
   onStart: async function ({ api, event, args }) {
-    const threadID = "7108452272599426";
+    const threadID = "25597436396568519";
 
     try {
       // Check if the user is already in the group chat
