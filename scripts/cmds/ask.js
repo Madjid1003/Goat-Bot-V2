@@ -19,13 +19,13 @@ const fonts = {
 };
 
 const Prefixes = [
-  'hum',
-  'comment vas-tu',
+  '😂',
+  'coucou',
   'iron',
   'ask',
-  'ok', 
+  'slt', 
    'cc',
-    'bye',];
+    'cool',];
 
 module.exports = {
   config: {
