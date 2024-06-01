@@ -20,12 +20,12 @@ const fonts = {
 
 const Prefixes = [
   '😂',
-  'coucou',
+  'mensonge',
   'iron',
   'ask',
-  'slt', 
+  'chien', 
    'cc',
-    'cool',];
+    'bg',];
 
 module.exports = {
   config: {
