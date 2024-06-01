@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "salut") return message.reply("Salut humain ☺️ moi c'est 🥹Iron🩷 quelque chose me dit que t'as un soucis n'hésite pas à me parler même si c'est pour baisé ta satisfaction est ma priorité 🥵❤️‍🔥🧸");
+    if (event.body && event.body.toLowerCase() == "salut") return message.reply("Salut Humain, moi c'est Iron 🔥 un genre d'homme du futur créer par Madjid ta satisfaction est ma priorité ❤️‍🔥🧸");
 }
 };
