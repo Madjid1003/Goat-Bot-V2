@@ -48,7 +48,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
       if (!prompt) {
-        await message.reply("༐⸙𝓘𝓻𝓸𝓷 𝓐𝓵𝓵🫴🩷 ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴         Tiens🫴🧠 c'est tomber༅    ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴               ༈ ࿂┉༐⸙ ℳ𝒶𝒹𝒿𝒾𝒹.....❍♱ ");
+        await message.reply("༐⸙𝓘𝓻𝓸𝓷 𝓐𝓵𝓵🫴🩷 ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴         Tiens🫴 ton cerveau🧠 je pense que c'est tomber༅    ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴               ༈ ࿂┉༐⸙ ℳ𝒶𝒹𝒿𝒾𝒹.....❍♱ ");
         return;
       }
       const senderID = event.senderID;
