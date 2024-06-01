@@ -19,13 +19,13 @@ const fonts = {
 };
 
 const Prefixes = [
-  '667',
-  'ai',
-  'ghost',
+  'hum',
+  'comment vas-tu',
+  'iron',
   'ask',
-  'Haitani', 
-   'Shisui',
-    'Street',];
+  'ok', 
+   'cc',
+    'bye',];
 
 module.exports = {
   config: {
@@ -48,14 +48,14 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
       if (!prompt) {
-        await message.reply("༐⸙ 𝗚𝗛𝗢𝗦𝗧✨👻 ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴         🕊𝚈𝙾 𝙵𝚁𝙰𝙽𝙶𝙸𝙽 𝙹𝙴 𝚂𝚄𝙸𝚂 𝚃𝙾𝙽 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃🤖 𝚅𝙸𝚁𝚃𝚄𝙴𝙻..🫶... 𝙿𝙾𝚂𝙴 𝙼𝙾𝙸 𝚃𝙰 𝚀𝚄𝙴𝚂𝚃𝙸𝙾𝙽 ༅    ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴               ༈ ࿂┉༐⸙ 𝗛𝗔𝗜𝗧𝗔𝗡𝗜.....❍♱ ");
+        await message.reply("༐⸙𝓘𝓻𝓸𝓷 𝓐𝓵𝓵🫴🩷 ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴         Tiens🫴🧠 c'est tomber༅    ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴               ༈ ࿂┉༐⸙ ℳ𝒶𝒹𝒿𝒾𝒹.....❍♱ ");
         return;
       }
       const senderID = event.senderID;
       const senderInfo = await api.getUserInfo([senderID]);
       const senderName = senderInfo[senderID].name;
       const response = await axios.get(`https://sandipbaruwal.onrender.com/gpt?prompt=${encodeURIComponent(prompt)}`);
-      const answer = `➪❘❘❘『🅖🅗🅞🅢🅣 』❘❘❘  ──────────────
+      const answer = `➪❘❘❘『IRON 』❘❘❘  ──────────────
 
 ${response.data.answer}
 
