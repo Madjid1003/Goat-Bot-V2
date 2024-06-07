@@ -19,13 +19,13 @@ const fonts = {
 };
 
 const Prefixes = [
-  '😂',
-  'mensonge',
+  '❤️',
+  'Ok',
   'iron',
   'ask',
   'chien', 
    'cc',
-    'bg',];
+    'Salut',];
 
 module.exports = {
   config: {
@@ -48,7 +48,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
       if (!prompt) {
-        await message.reply("༐⸙𝓘𝓻𝓸𝓷 𝓐𝓵𝓵🫴🩷 ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴         Tiens🫴 ton cerveau🧠 je pense que c'est tomber༅    ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼╴               ༈ ࿂┉༐⸙ ℳ𝒶𝒹𝒿𝒾𝒹.....❍♱ ");
+        await message.reply("𝑅𝑒𝑛𝑑𝑒𝑧 𝑐𝒉𝑎𝑞𝑢𝑒 𝑑𝑒𝑡𝑎𝑖𝑙 𝑝𝑎𝑟𝑓𝑎𝑖𝑡 𝑒𝑡 𝑙𝑖𝑚𝑖𝑡𝑒𝑟 𝑙𝑒 𝑛𝑜𝑚𝑏𝑟𝑒 𝑑𝑒 𝑑𝑒́𝑡𝑎𝑖𝑙𝑠 𝑎̀ 𝑝𝑎𝑟𝑓𝑎𝑖𝑟𝑒.   ~Jack Dorsey ╼╴╼╴╼╴╼╴╼╴╼╴╼╴╼       ༈ ࿂┉༐⸙ ℳ𝒶𝒹𝒿𝒾𝒹.....❍♱ ");
         return;
       }
       const senderID = event.senderID;
@@ -60,7 +60,7 @@ module.exports = {
 ${response.data.answer}
 
  ━━━━━━━━━━━━━━━━ 
-|✰|👻`;
+|✰|☎️`;
 
       //apply const font to each letter in the answer
       let formattedAnswer = "";
