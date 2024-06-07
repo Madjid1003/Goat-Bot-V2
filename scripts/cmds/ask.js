@@ -20,11 +20,8 @@ const fonts = {
 
 const Prefixes = [
   '❤️',
-  'Ok',
   'iron',
-  'ask',
-  'chien', 
-   'cc',
+  'ask', 
     'Salut',];
 
 module.exports = {
