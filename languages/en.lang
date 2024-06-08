@@ -92,27 +92,27 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
-handlerEvents.onlyAdminBot=Je suis pas là pour rigoler batard.. oups dsl 😂 \n ᚖ━━━━━❆-❆━━━━━━ᚖ\n❆ℳ𝒶𝒹𝒿𝒾𝒹❆
-handlerEvents.commandNotFound=☎️"Yo, yo, yo dsl je peux pas faire ça ➬ -calladᚖ━━━━━❆-❆━━━━━━ᚖ
+handlerEvents.onlyAdminBot=Je suis pas là pour rigoler batard.. 🏳️‍⚧️oups dsl 😂 \n ᚖ━━━━━❆-❆━━━━━━ᚖ\n❆ℳ𝒶𝒹𝒿𝒾𝒹❆
+handlerEvents.commandNotFound=🏳️‍⚧️"Yo, yo, yo dsl je peux pas faire ça ➬ -calladᚖ━━━━━❆-❆━━━━━━ᚖ
 ❆𝓜𝓪𝓭𝓳𝓲𝓭❆
-handlerEvents.commandNotFound2=☎️ 𝑁𝑂𝑇𝐼𝐶𝐸 𝑃𝐸𝑅𝑆𝑂 𝐷𝑈 𝐵𝑂𝑇 ᚖ━━━━━━━━━━━━━━━━ᚖ\n𝑨𝒅𝒎𝒊𝒏: 𝐿𝑜𝑟𝑑 𝑴𝒂𝒅𝒋𝒊𝒅 ᚖ━━━━━━━━━━━━━━━━ᚖ  𝑀𝑜𝑛 𝑚𝑒𝑖𝑙𝑙𝑒𝑢𝑟 𝑝𝑜𝑡𝑒: https://www.facebook.com/profile.php?id=100092228388224  ᚖ━━━━━━━━━━━━━━━━ᚖ La valeur d’une idée dépend de son utilisation.~Thomas Edison
-handlerEvents.commandSyntaxError=𝐃𝐞́𝐬𝐨𝐥𝐞́ 𝐦𝐚𝐢𝐬 𝐥𝐞 𝐧𝐨𝐦 𝐬𝐚𝐢𝐬𝐢𝐫 𝐞𝐬𝐭 𝐢𝐧𝐜𝐨𝐫𝐫𝐞𝐜𝐭, 𝐞́𝐜𝐫𝐢𝐭 %1help %2 𝐩𝐨𝐮𝐫 𝐚𝐯𝐨𝐢𝐫 𝐩𝐥𝐮𝐬 𝐝'𝐢𝐧𝐟𝐨𝐬 𝐬𝐮𝐫 𝐥𝐚 𝐜𝐦𝐝..😉
-handlerEvents.onlyAdmin=☎️| T'es plus un gamin, arrête de joué avec ça 😒🔪 "%1" \n◈━━━━━❆ - ❆━━━━━━◈\n❆..ℳ𝒶𝒹𝒿𝒾𝒹..❆ 
-handlerEvents.onlyAdminToUseOnReply=☎️ | T'as pas encore l'âge d'utiliser cette cmd gamin🧰 "%1"❆ℳ𝒶𝒹𝒿𝒾𝒹❆
-handlerEvents.onlyAdminToUseOnReaction=☎️| On est pas des lâches, on va se battre jusqu'au bout.  "%1" \n❆..ℳ𝒶𝒹𝒿𝒾𝒹..❆
-handlerEvents.onlyAdminBot2=☎️| C'est quoi ce bordel ? Tu te prend pour qui?😒🔪 "%1"
-handlerEvents.onlyAdminBot2ToUseOnReply=☎️ | "Je suis pas là pour rigoler.. T'as pas encore la capacité de faire ça🔞 "%1"
-handlerEvents.onlyAdminBot2ToUseOnReaction=☎️ | C'est quoi ce bordel ? T'es pas assez fort pour utiliser ça 🔞 "%1"
+handlerEvents.commandNotFound2=🏳️‍⚧️ᏆᎡϴΝ ᎪᏞᏞ🏳️‍⚧️ ᚖ━━━━━━━━━━━━━━━━ᚖ\nᗩᗞᗰᏆᑎ: 𝐿𝑜𝑟𝑑 𝑴𝒂𝒅𝒋𝒊𝒅 ᚖ━━━━━━━━━━━━━━━━ᚖ ᏟϴᎷᎷᎬΝͲ ᏢႮᏆՏ-ᎫᎬ Ͳ'ᎪᏆᎠᎬᎡ, ᎻႮᎷᎪᏆΝ 🏳️‍⚧️
+handlerEvents.commandSyntaxError=ᎠᎬՏϴᏞᎬᎡ ᎷᎪᏆՏ ᏞᎬ ΝϴᎷ ՏᎪᏆՏᏆ ᎬՏͲ ᏆΝᏟϴᎡᎡᎬᏟͲ, ᎬᏟᎡᏆͲ %1help %2 ᏢϴႮᎡ ᎪᏙϴᏆᎡ ᏢᏞႮՏ Ꭰ'ᏆΝҒϴՏ ՏႮᎡ ᏞᎪ ᏟᎷᎠ🏳️‍⚧️ 
+handlerEvents.onlyAdmin=🏳️‍⚧️| T'es plus un gamin, arrête de joué avec ça 😒🔪 "%1" \n◈━━━━━❆ - ❆━━━━━━◈\n❆..ℳ𝒶𝒹𝒿𝒾𝒹..❆ 
+handlerEvents.onlyAdminToUseOnReply=🏳️‍⚧️ | T'as pas encore l'âge d'utiliser cette cmd gamin🏳️‍⚧️ "%1"❆ℳ𝒶𝒹𝒿𝒾𝒹❆
+handlerEvents.onlyAdminToUseOnReaction=🏳️‍⚧️| On est pas des lâches, on va se battre jusqu'au bout.  "%1" \n❆..ℳ𝒶𝒹𝒿𝒾𝒹..❆
+handlerEvents.onlyAdminBot2=🏳️‍⚧️| C'est quoi ce bordel ? Tu te prend pour qui?😒🔪 "%1"
+handlerEvents.onlyAdminBot2ToUseOnReply=🏳️‍⚧️ | "Je suis pas là pour rigoler.. T'as pas encore la capacité de faire ça🔞 "%1"
+handlerEvents.onlyAdminBot2ToUseOnReaction=🏳️‍⚧️ | C'est quoi ce bordel ? T'es pas assez fort pour utiliser ça 🔞 "%1"
 handlerEvents.waitingForCommand=⏱ On se calme, on se calme...⏳\n %1s
-handlerEvents.errorOccurred🧰 [ %1 ]\nAn error occurred at command "%2"\n\n%3
-handlerEvents.errorOccurred2=🧰 [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
-handlerEvents.errorOccurred3=🧰 [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
-handlerEvents.errorOccurred4=🧰 [ %1 ]\nAn error occurred when executing onReaction at command "%2"\n\n%3
-handlerEvents.errorOccurred5=🧰 [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
-handlerEvents.errorOccurred6=🧰 [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
-handlerEvents.errorOccurred7=🧰 [ %1 ]\nAn error occurred when executing onAnyEvent at command "%2"\n\n%3
-handlerEvents.cannotFindCommandName=🧰 Cannot find command name to execute this reply!
-handlerEvents.cannotFindCommand=🧰 Cannot find command "%1" to execute this reply!
+handlerEvents.errorOccurred🏳️‍⚧️ [ %1 ]\nAn error occurred at command "%2"\n\n%3
+handlerEvents.errorOccurred2=🏳️‍⚧️ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
+handlerEvents.errorOccurred3=🏳️‍⚧️ [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
+handlerEvents.errorOccurred4=🏳️‍⚧️ [ %1 ]\nAn error occurred when executing onReaction at command "%2"\n\n%3
+handlerEvents.errorOccurred5=🏳️‍⚧️ [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
+handlerEvents.errorOccurred6=🏳️‍⚧️ [ %1 ]\nAn error occurred when executing onEvent at command "%2"\n\n%3
+handlerEvents.errorOccurred7=🏳️‍⚧️ [ %1 ]\nAn error occurred when executing onAnyEvent at command "%2"\n\n%3
+handlerEvents.cannotFindCommandName=🏳️‍⚧️ Cannot find command name to execute this reply!
+handlerEvents.cannotFindCommand=🏳️‍⚧️ Cannot find command "%1" to execute this reply!
 
 # bot/autoUptime.js
 autoUptime.autoUptimeTurnedOn=AutoUptime mode turned on
