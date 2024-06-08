@@ -61,7 +61,7 @@ module.exports = {
       pageNotFound: "Trang %1 không tồn tại"
     },
     en: {
-      help: "🎀🏳️‍⚧️ᏆᎡϴΝ ᎪᏞᏞ🏳️‍⚧️🎀\n\n%1\n━━━━━━━━━━━━━\n ᏢᎪᏀᎬ [ %2/%3 ]\n🏳️‍⚧️Ꭻ'ᎪᏆ ᎪᏟͲႮᎬᏞᏞᎬᎷᎬΝͲ「 %4 」ᏟᎷᎠՏ \n🏳️‍⚧️ ͲᎪᏢᎬ: %5help <𝙿𝙰𝙶𝙴> ᏢϴႮᎡ ᎬΝ ՏᎪᏙϴᏆᎡ ᏢᏞႮՏ \n🏳️‍⚧️ » ͲᎪᏢᎬ: %5help ᏢϴႮᎡ ᏙϴᏆᎡ ᏞᎬՏ ᎠᎬͲᎪᏆᏞՏ Ꭰ'ႮͲᏆᏞᏆՏᎪͲᏆϴΝ ᎠᎬ ᎷᎬՏ ᏟϴᎷᎷᎪΝᎠᎬՏ \n✰━━━━━━━━━━✰\n│ %6\n━━━━━━━━━━━━━",
+      help: "🎀🏳️‍⚧️ᏆᎡϴΝ ᎪᏞᏞ🏳️‍⚧️🎀\n\n%1\n━━━━━━━━━━━━━\n ᏢᎪᏀᎬ [ %2/%3 ]\n🏳️‍⚧️Ꭻ'ᎪᏆ ᎪᏟͲႮᎬᏞᏞᎬᎷᎬΝͲ「 %4 」ᏟᎷᎠՏ \n🏳️‍⚧️ ͲᎪᏢᎬ: %5help <𝙿𝙰𝙶𝙴> ᏢϴႮᎡ ᎬΝ ՏᎪᏙϴᏆᎡ ᏢᏞႮՏ \n🏳️‍⚧️ » \n✰━━━━━━━━━━✰\n│ %6\n━━━━━━━━━━━━━",
       help2: "%1\n⇛🏳️‍⚧️ ᏞᎬ ᏴϴͲ Ꭺ〚%2〛ᏟᎷᎠՏ ႮͲᏆᏞᏆՏᎪᏴᏞᎬ \n⇛🏳️‍⚧️☆⊹ ͲᎪᏢᎬ: %3help ⊹☆ ᏢϴႮᎡ ᏙϴᏆᎡ ᏞᎪ ͲϴͲᎪᏞᏆᎡᎬᎡ ᎠᎬ ᎷᎬՏ ᏟᎷᎠՏ \n ━━━━━━━━━━━━:\n%4\n━━━━━━━━━━━━",
       commandNotFound: "ᏟᎷᎠ \"『%1』\" ᎬՏͲ ᏆΝᎠᏆՏᏢϴΝᏆᏴᏞᎬ",
       getInfoCommand: "╭── NAME ────✿\n %1\n├── INFO\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n├── Usage\n%9\n├── Notes\n│ The content inside <XXXXX> can be changed\n│ The content inside [a|b|c] is a or b or c\n╰──────❀",
