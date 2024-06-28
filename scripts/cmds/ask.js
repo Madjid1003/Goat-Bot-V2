@@ -22,7 +22,8 @@ const Prefixes = [
   '❤️',
   'iron',
   'ask', 
-    'Cc',];
+    'Cc'
+    'Draken',];
 
 module.exports = {
   config: {
