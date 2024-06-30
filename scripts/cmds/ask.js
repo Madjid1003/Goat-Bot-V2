@@ -19,11 +19,10 @@ const fonts = {
 };
 
 const Prefixes = [
-  '❤️',
-  'iron',
+  '🏳️‍⚧️',
+  'Draken',
   'ask', 
-    'Cc'
-    'Draken',];
+    'Cc',];
 
 module.exports = {
   config: {
