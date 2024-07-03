@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "salut") return message.reply("🏳️‍⚧️ՏᎪᏞႮͲ, ᏟϴᎷᎷᎬΝͲ ᏙᎪՏ ͲႮ? ͲႮ ᎪՏ ᎷᎪΝᏀᎬ́ ϘႮϴᏆ ᎪႮᎫϴႮᎡᎠ'ᎻႮᏆ ᎷϴΝ ᎪᎷᏆ 🏳️‍⚧️");
+    if (event.body && event.body.toLowerCase() == "salut") return message.reply("🇧🇯ՏᎪᏞႮͲ, ᏟϴᎷᎷᎬΝͲ ᏙᎪՏ ͲႮ? ͲႮ ᎪՏ ᎷᎪΝᏀᎬ́ ϘႮϴᏆ ᎪႮᎫϴႮᎡᎠ'ᎻႮᏆ ᎷϴΝ ᎪᎷᏆ🫧🇧🇯");
 }
 };
