@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "🎀🏳️‍⚧️ᏆᎡϴΝ ᎪᏞᏞ🏳️‍⚧️🎀";
+const doNotDelete = "🇧🇯🫧ᏆᎡϴΝ ᎪᏞᏞ🫧🇧🇯";
 /** 
 * @author NTKhang
 * @author: do not delete it
@@ -43,7 +43,7 @@ module.exports = {
 
   langs: {
     vi: {
-      help: "╭─────────────✿\n🎀🏳️‍⚧️ᏆᎡϴΝ ᏟᎷᎠ🎀🏳️‍⚧️ \n├─────⭔\n│ Trang [ %2/%3 ]\n│ Hiện tại bot có %4 lệnh có thể sử dụng\n│ » Gõ %5help <số trang> để xem danh sách các lệnh\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó\n├────────❀\n│ %6\n╰─────────────✿",
+      help: "╭─────────────✿\n🇧🇯🫧ᏆᎡϴΝ ᏟᎷᎠ🫧🇧🇯 \n├─────⭔\n│ Trang [ %2/%3 ]\n│ Hiện tại bot có %4 lệnh có thể sử dụng\n│ » Gõ %5help <số trang> để xem danh sách các lệnh\n│ » Gõ %5help để xem chi tiết cách sử dụng lệnh đó\n├────────❀\n│ %6\n╰─────────────✿",
       attechment:fs.createReadStream("anjarara.jpg"),
       help2: "%1├───────❀\n│ » Hiện tại bot có %2 lệnh có thể sử dụng\n│ » Gõ %3help <tên lệnh> để xem chi tiết cách sử dụng lệnh đó\n│ %4\n╰─────────────✿",
       commandNotFound: "Lệnh \"%1\" không tồn tại",
@@ -61,8 +61,8 @@ module.exports = {
       pageNotFound: "Trang %1 không tồn tại"
     },
     en: {
-      help: "🎀🏳️‍⚧️ᏆᎡϴΝ ᎪᏞᏞ🏳️‍⚧️🎀\n\n%1\n━━━━━━━━━━━━━\n ᏢᎪᏀᎬ [ %2/%3 ]\n🏳️‍⚧️Ꭻ'ᎪᏆ ᎪᏟͲႮᎬᏞᏞᎬᎷᎬΝͲ「 %4 」ᏟᎷᎠՏ \n🏳️‍⚧️ ͲᎪᏢᎬ: %5help <𝙿𝙰𝙶𝙴> ᏢϴႮᎡ ᎬΝ ՏᎪᏙϴᏆᎡ ᏢᏞႮՏ \n🏳️‍⚧️ » \n✰━━━━━━━━━━✰\n│ %6\n━━━━━━━━━━━━━",
-      help2: "%1\n⇛🏳️‍⚧️ ᏞᎬ ᏴϴͲ Ꭺ〚%2〛ᏟᎷᎠՏ ႮͲᏆᏞᏆՏᎪᏴᏞᎬ \n⇛🏳️‍⚧️☆⊹ ͲᎪᏢᎬ: %3help ⊹☆ ᏢϴႮᎡ ᏙϴᏆᎡ ᏞᎪ ͲϴͲᎪᏞᏆᎡᎬᎡ ᎠᎬ ᎷᎬՏ ᏟᎷᎠՏ \n ━━━━━━━━━━━━:\n%4\n━━━━━━━━━━━━",
+      help: "🇧🇯🫧ᏆᎡϴΝ ᎪᏞᏞ🫧🇧🇯\n\n%1\n━━━━━━━━━━━━━\n ᏢᎪᏀᎬ [ %2/%3 ]\n🇧🇯Ꭻ'ᎪᏆ ᎪᏟͲႮᎬᏞᏞᎬᎷᎬΝͲ「 %4 」ᏟᎷᎠՏ \n🇧🇯 ͲᎪᏢᎬ: %5help <𝙿𝙰𝙶𝙴> ᏢϴႮᎡ ᎬΝ ՏᎪᏙϴᏆᎡ ᏢᏞႮՏ \n🏳️‍⚧️ » \n✰━━━━━━━━━━✰\n│ %6\n━━━━━━━━━━━━━",
+      help2: "%1\n⇛🇧🇯 ᏞᎬ ᏴϴͲ Ꭺ〚%2〛ᏟᎷᎠՏ ႮͲᏆᏞᏆՏᎪᏴᏞᎬ \n⇛🇧🇯☆⊹ ͲᎪᏢᎬ: %3help ⊹☆ ᏢϴႮᎡ ᏙϴᏆᎡ ᏞᎪ ͲϴͲᎪᏞᏆᎡᎬᎡ ᎠᎬ ᎷᎬՏ ᏟᎷᎠՏ \n ━━━━━━━━━━━━:\n%4\n━━━━━━━━━━━━",
       commandNotFound: "ᏟᎷᎠ \"『%1』\" ᎬՏͲ ᏆΝᎠᏆՏᏢϴΝᏆᏴᏞᎬ",
       getInfoCommand: "╭── NAME ────✿\n %1\n├── INFO\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n├── Usage\n%9\n├── Notes\n│ The content inside <XXXXX> can be changed\n│ The content inside [a|b|c] is a or b or c\n╰──────❀",
       onlyInfo: "╭── INFO ────✿\n│ Command name: %1\n│ Description: %2\n│ Other names: %3\n│ Other names in your group: %4\n│ Version: %5\n│ Role: %6\n│ Time per command: %7s\n│ Author: %8\n╰─────────────✿",
@@ -150,7 +150,7 @@ module.exports = {
   }
 
   for (const [category, commands] of categoryCommands) {
-    msg += `》🏳️‍⚧️─⌦[${category}]••🏳️‍⚧️\n▣「${commands.join(" ")}」\n\n`;
+    msg += `》🇧🇯─⌦[${category}]••🇧🇯\n▣「${commands.join(" ")}」\n\n`;
   }
 
   message.reply(getLang("help2", msg, commands.size, prefix, doNotDelete));
